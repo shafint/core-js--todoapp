@@ -1,0 +1,16 @@
+*{
+    font-family: sans-serif;
+  }
+  .clearAll{
+      color:#198754;
+      border:none;
+      margin-left: 10px;
+      margin-top: 10px;
+  }
+  .hellow{
+    font-weight: 500;
+  }
+  .hellow.active{
+      color:rgb(240, 112, 133);
+      text-decoration: line-through;
+}
